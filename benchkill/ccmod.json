@@ -1,7 +1,7 @@
 {
-	"id": "antihomelessness",
+	"id": "benchkill",
 	"version": "0.1.0",
-	"title": "Antihomelessness for CrossCode",
+	"title": "Bench Killer",
 	"description": "Remove benches",
 	"repository": "",
 	"tags": ["QoL"],
