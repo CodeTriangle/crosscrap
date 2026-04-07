@@ -1,0 +1,10 @@
+{
+	"id": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+	"version": "0.1.0",
+	"title": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+	"description": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+	"repository": "",
+	"tags": ["QoL"],
+	"authors": "CodeTriangle",
+	"prestart": "prestart.js"
+}

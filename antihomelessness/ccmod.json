@@ -1,0 +1,10 @@
+{
+	"id": "antihomelessness",
+	"version": "0.1.0",
+	"title": "Antihomelessness for CrossCode",
+	"description": "Remove benches",
+	"repository": "",
+	"tags": ["QoL"],
+	"authors": "CodeTriangle",
+	"prestart": "prestart.js"
+}
