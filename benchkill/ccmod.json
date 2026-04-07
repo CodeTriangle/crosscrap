@@ -3,7 +3,7 @@
 	"version": "0.1.0",
 	"title": "Bench Killer",
 	"description": "Remove benches",
-	"repository": "",
+	"repository": "https://github.com/CodeTriangle/crosscrap",
 	"tags": ["QoL"],
 	"authors": "CodeTriangle",
 	"prestart": "prestart.js"
