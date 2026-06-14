@@ -1,0 +1,10 @@
+{
+	"id": "enemy-level-anarchy",
+	"version": "0.1.0",
+	"title": "Enemy Level Anarchy",
+	"description": "Replace EVERY enemy's level randomly :)",
+	"repository": "https://github.com/CodeTriangle/crosscrap",
+	"tags": ["fun"],
+	"authors": "CodeTriangle",
+	"prestart": "prestart.js"
+}
