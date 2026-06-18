@@ -1,0 +1,11 @@
+[
+	{
+		"type": "ENTER",
+		"index": ["entities", 12, "settings"]
+	},
+	{
+		"type": "SET_KEY",
+		"index": "chestType",
+		"content": "Gold"
+	}
+]
