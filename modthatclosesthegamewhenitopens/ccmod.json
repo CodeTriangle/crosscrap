@@ -1,0 +1,10 @@
+{
+	"id": "modthatclosesthegamewhenitopens",
+	"version": "0.1.0",
+	"title": "Mod that closes the game when it opens",
+	"description": "Mod that closes the game when it opens",
+	"repository": "https://github.com/CodeTriangle/crosscrap",
+	"tags": ["QoL"],
+	"authors": "CodeTriangle",
+	"prestart": "prestart.js"
+}
