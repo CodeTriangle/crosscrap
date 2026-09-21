@@ -1,0 +1,10 @@
+{
+	"id": "no-slot-limit",
+	"version": "0.1.0",
+	"title": "Remove Slot Limit",
+	"description": "Remove limit on number of slots",
+	"repository": "https://github.com/CodeTriangle/crosscrap",
+	"tags": ["QoL"],
+	"authors": "CodeTriangle",
+	"prestart": "prestart.js"
+}
