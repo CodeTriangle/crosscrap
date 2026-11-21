@@ -1,0 +1,10 @@
+{
+	"id": "menacing-world",
+	"version": "0.1.0",
+	"title": "Menacing World",
+	"description": "Everything seems a bit more menacing...",
+	"repository": "https://github.com/CodeTriangle/crosscrap",
+	"tags": ["QoL"],
+	"authors": "CodeTriangle",
+	"prestart": "prestart.js"
+}
